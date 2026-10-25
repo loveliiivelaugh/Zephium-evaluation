@@ -1,3 +1,7 @@
+> **Evaluation fork — installation and execution paused.** This fork retains Zephium for cautious review. The Mac installer provenance discrepancy remains unresolved, and GitHub Actions is disabled. No approval for builds, installation, everyday browsing, or agent access is implied. See [EVALUATION.md](EVALUATION.md) for the baseline, evidence, blockers, and conditions for reconsideration.
+
+---
+
 <div align="center">
   <img src=".github/assets/logo.png" width="112" height="112" alt="Zephium" />
   <h1>Zephium</h1>
